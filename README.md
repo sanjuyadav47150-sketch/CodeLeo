@@ -29,13 +29,13 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/sanjuyadav47150-sketch/CodeLeo.git
+`git clone https://github.com/sanjuyadav47150-sketch/CodeLeo.git`
 
-cd CodeLeo
+`cd CodeLeo`
 
 2. Install Dependencies
 
-npm install
+`npm install`
 
 3. Configure the Bot
 
@@ -47,7 +47,7 @@ Add:
 
 {
   "prefix": "!",
-  "token": "DISCORD_BOT_TOKEN"
+  "token": `"DISCORD_BOT_TOKEN"`
 }
 
 4. Enable Privileged Intents
@@ -80,7 +80,7 @@ Invite the bot to your server and ensure it has the following permissions:
 
 6. Start the Bot
 
-node index.js
+`node index.js`
 
 If everything is configured correctly, you will see:
 
