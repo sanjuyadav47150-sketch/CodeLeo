@@ -30,6 +30,7 @@ Installation
 1. Clone the Repository
 
 git clone https://github.com/sanjuyadav47150-sketch/CodeLeo.git
+
 cd CodeLeo
 
 2. Install Dependencies
