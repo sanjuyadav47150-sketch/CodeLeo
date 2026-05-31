@@ -7,8 +7,16 @@ module.exports = {
 CodeLeo Commands
 
 Utility
-- ping
-- help
+!ping
+!help
+
+Moderation
+!kick @user
+!ban @user
+!purge <amount>
+!timeout @user <minutes>
+
+More features coming soon...
 `);
     }
 };
